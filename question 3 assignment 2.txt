@@ -1,0 +1,10 @@
+|       n |   Sub Quadratic Time |   Quadratic Time |
+|---------|----------------------|------------------|
+|      10 |                4.152 |            6.312 |
+|     100 |                3.492 |            5.851 |
+|    1000 |                4.284 |            6.914 |
+|   10000 |                2.731 |            3.710 |
+|  100000 |                4.924 |            4.741 |
+| 1000000 |                5.497 |            7.560 |
+
+As can be seen with the provided data, the sub quadratic time alogorithm on average has much shorter runtimes than its quadratic time counterpart.
